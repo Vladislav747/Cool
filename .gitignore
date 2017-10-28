@@ -7,7 +7,5 @@
 /build
 /captures
 .externalNativeBuild
-Devcolibri.git/.svn/
-app/libs/
-app/src/main/java/
-app/src/main/res/drawable/
+
+
